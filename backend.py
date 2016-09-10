@@ -2,11 +2,6 @@
 print("Content-Type:text/html\n")
 print("")
 
-# <name>
-# IntroCS2 pd<#>
-# HW #<n> -- <title>
-# 2015-<m>-<d>
-
 heading='''
 <!DOCTYPE html>
 <html>
