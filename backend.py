@@ -1,6 +1,6 @@
 #!/usr/bin/python
-print ("Content-Type:text/html\n")
-print ("")
+print("Content-Type:text/html\n")
+print("")
 
 # <name>
 # IntroCS2 pd<#>
@@ -20,4 +20,4 @@ closing='''
 </html>
 '''
 
-print (heading+code+closing)
+print(heading+code+closing)
