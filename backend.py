@@ -1,6 +1,6 @@
 #!/usr/bin/python
-print("Content-Type:text/html\n")
-print("")
+print "Content-Type:text/html\n"
+print ""
 
 heading='''
 <!DOCTYPE html>
@@ -15,4 +15,4 @@ closing='''
 </html>
 '''
 
-print(heading+code+closing)
+print heading+code+closing
